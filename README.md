@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Christopher 👋🏽
+
+I am a Software Engineer from a small city near Munich and are currently working for Sky Germany as a Senior Software Manager and beside this I am owning my own business webCIT.
+
+
+### Favourite Skills
+
 
 <!--
 **nachbarshund/nachbarshund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
